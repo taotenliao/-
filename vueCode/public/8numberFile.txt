@@ -1,0 +1,10 @@
+../softwareEngineeringFront-end/public/inspireFunc1.txt
+../softwareEngineeringFront-end/public/inspireFunc1SearchInform.txt
+../softwareEngineeringFront-end/public/inspireFunc2.txt
+../softwareEngineeringFront-end/public/inspireFunc2SearchInform.txt
+../softwareEngineeringFront-end/public/widthFirst.txt
+../softwareEngineeringFront-end/public/widthFirstSearchInform.txt
+../softwareEngineeringFront-end/public/depthFirst.txt
+../softwareEngineeringFront-end/public/depthFirstSearchInform.txt
+../softwareEngineeringFront-end/public/random.txt
+../softwareEngineeringFront-end/public/randomSearchInform.txt
